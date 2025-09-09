@@ -5,7 +5,7 @@
       class="absolute inset-0 bg-cover bg-center bg-no-repeat"
       :style="{ backgroundImage: `url(${geminiImage})` }"
     ></div>
-    <div class="absolute inset-0 bg-black bg-opacity-50"></div>
+    <div class="absolute inset-0 bg-black bg-opacity-50 dark:bg-opacity-70"></div>
 
     <!-- Content -->
     <div class="relative max-w-4xl mx-auto px-4 sm:px-6 lg:px-8 py-8">

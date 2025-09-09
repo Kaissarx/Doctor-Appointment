@@ -5,7 +5,7 @@
       class="absolute inset-0 bg-cover bg-center bg-no-repeat"
       :style="{ backgroundImage: `url(${backgroundUrl})` }"
     >
-      <div class="absolute inset-0 bg-black bg-opacity-70"></div>
+      <div class="absolute inset-0 bg-black bg-opacity-50 dark:bg-opacity-70"></div>
     </div>
 
     <!-- Content -->
